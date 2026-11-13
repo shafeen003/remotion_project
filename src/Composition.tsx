@@ -1,3 +1,4 @@
+﻿import './bengali-font.css';
 
 import React from "react";
 import {
@@ -240,7 +241,7 @@ export const MyComponent: React.FC<Props> = () => {
             marginBottom: 35,
           }}
         >
-          একটি ছোট্ট গল্প
+          à¦à¦•à¦Ÿà¦¿ à¦›à§‹à¦Ÿà§à¦Ÿ à¦—à¦²à§à¦ª
         </div>
 
         <div
@@ -252,9 +253,9 @@ export const MyComponent: React.FC<Props> = () => {
             textShadow: "0 5px 30px rgba(0,0,0,0.7)",
           }}
         >
-          দরজাটা
+          à¦¦à¦°à¦œà¦¾à¦Ÿà¦¾
           <br />
-          খোলা রেখো
+          à¦–à§‹à¦²à¦¾ à¦°à§‡à¦–à§‹
         </div>
 
         <div
@@ -274,7 +275,7 @@ export const MyComponent: React.FC<Props> = () => {
             letterSpacing: 2,
           }}
         >
-          কিছু অপেক্ষার শেষ হয় না...
+          à¦•à¦¿à¦›à§ à¦…à¦ªà§‡à¦•à§à¦·à¦¾à¦° à¦¶à§‡à¦· à¦¹à§Ÿ à¦¨à¦¾...
         </div>
       </div>
 
@@ -295,3 +296,5 @@ export const MyComponent: React.FC<Props> = () => {
     </AbsoluteFill>
   );
 };
+
+
